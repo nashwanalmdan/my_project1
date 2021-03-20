@@ -1,2 +1,2 @@
-# my_project1
-for news site
+# my_project
+ news
